@@ -1,0 +1,23 @@
+<!Doctype html>
+
+<html xmlns:th="http://thymeleaf.org">
+
+
+    <head th:replace ="layout :: site-head"></head>
+    <title>Spring MVC Application</title>
+
+<header th:replace = "layout :: logged-out "> </header>
+<body>
+<h1>All Technical Posts</h1><form><input type="button"  onclick="alert('Website under construction')" value="Create Post!"></form>
+<main id="posts">
+    <post th:each="p : ${posts}">
+        <h2 th:text="${p.title}"></h2>
+        <i>Posted On: </i> <span th:text="${p.date}"></span>
+        <div>
+            <p th:text="${p.body}"></p>
+        </div>
+    </post>
+</main>
+</body>
+</html>
+
