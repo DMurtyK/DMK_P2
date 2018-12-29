@@ -5,21 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef3d2612-1ff9-4230-80b6-361eb5197698" name="Default" comment="">
-      <change afterPath="$APPLICATION_CONFIG_DIR$/options/github_settings.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ImageHoster_assignment_solution/.idea/ImageHoster_assignment_solution.iml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ImageHoster_assignment_solution/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ImageHoster_assignment_solution/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ImageHoster_assignment_solution/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ImageHoster_assignment_solution/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ImageHoster_assignment_solution/ImageHoster/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ImageHoster_assignment_solution/ImageHoster/ImageHoster.iml" afterDir="false" />
       <change beforePath="$USER_HOME$/ImageHoster/.idea/vcs.xml" beforeDir="false" afterPath="$USER_HOME$/ImageHoster/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$USER_HOME$/ImageHoster/src/main/java/ImageHoster/controller/CommentController.java" beforeDir="false" afterPath="$USER_HOME$/ImageHoster/src/main/java/ImageHoster/controller/CommentController.java" afterDir="false" />
       <change beforePath="$USER_HOME$/ImageHoster/src/main/java/ImageHoster/controller/ImageController.java" beforeDir="false" afterPath="$USER_HOME$/ImageHoster/src/main/java/ImageHoster/controller/ImageController.java" afterDir="false" />
       <change beforePath="$USER_HOME$/ImageHoster/src/main/java/ImageHoster/model/Comment.java" beforeDir="false" afterPath="$USER_HOME$/ImageHoster/src/main/java/ImageHoster/model/Comment.java" afterDir="false" />
       <change beforePath="$USER_HOME$/ImageHoster/src/main/java/ImageHoster/repository/CommentRepository.java" beforeDir="false" afterPath="$USER_HOME$/ImageHoster/src/main/java/ImageHoster/repository/CommentRepository.java" afterDir="false" />
       <change beforePath="$USER_HOME$/ImageHoster/src/main/java/ImageHoster/service/CommentService.java" beforeDir="false" afterPath="$USER_HOME$/ImageHoster/src/main/java/ImageHoster/service/CommentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
