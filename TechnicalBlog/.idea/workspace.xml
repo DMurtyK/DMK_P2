@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef3d2612-1ff9-4230-80b6-361eb5197698" name="Default" comment="">
+      <change beforePath="$APPLICATION_CONFIG_DIR$/options/ui.lnf.xml" beforeDir="false" afterPath="$APPLICATION_CONFIG_DIR$/options/ui.lnf.xml" afterDir="false" />
       <change beforePath="$USER_HOME$/ImageHoster/.idea/vcs.xml" beforeDir="false" afterPath="$USER_HOME$/ImageHoster/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$USER_HOME$/ImageHoster/src/main/java/ImageHoster/controller/CommentController.java" beforeDir="false" afterPath="$USER_HOME$/ImageHoster/src/main/java/ImageHoster/controller/CommentController.java" afterDir="false" />
       <change beforePath="$USER_HOME$/ImageHoster/src/main/java/ImageHoster/controller/ImageController.java" beforeDir="false" afterPath="$USER_HOME$/ImageHoster/src/main/java/ImageHoster/controller/ImageController.java" afterDir="false" />
